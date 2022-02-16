@@ -33,7 +33,7 @@
 
 .card-name {
   margin: 50px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-style: normal;
   font-weight: bold;
   font-size: 35px;
@@ -78,7 +78,7 @@
 .price-value {
   display: flex;
   align-items: center;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-style: normal;
   font-weight: bold;
   font-size: 55px;
@@ -88,7 +88,7 @@
 }
 
 .plan-description {
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-style: normal;
   font-weight: 300;
   font-size: 15px;
@@ -103,7 +103,7 @@
   margin-left: 45px;
   width: 300px;
   height: 18px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-size: 15px;
   line-height: 18px;
   color: #FFFFFF;
@@ -112,7 +112,7 @@
 .list-item-text {
   display: flex;
   margin-left: 25px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-size: 15px;
   line-height: 18px;
   color: #FFFFFF;
@@ -173,7 +173,7 @@
   display: flex;
   align-items: center;
   margin: 30px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-size: 14px;
   line-height: 17px;
   color: white;
@@ -208,7 +208,7 @@
   height: 24px;
   top: 27px;
   right: -59px;
-  font-family: Montserrat;
+  font-family: 'Montserrat', 'sans-serif';
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
